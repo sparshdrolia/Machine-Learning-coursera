@@ -1,0 +1,116 @@
+Welcome to the September 20, 2019 edition of ACM TechNews, providing timely information for IT professionals three times a week.
+
+ACM TechNews mobile apps are available for Android phones and tablets (click here) and for iPhones (click here) and iPads (click here).
+
+To view "Headlines At A Glance," hit the link labeled "Click here to view this online" found at the top of the page in the html version. The online version now has a button at the top labeled "Show Headlines."
+
+A surveillance camera with facial recognition technology at Staqu headquarters India Planning Huge China-style Facial Recognition Program
+Bloomberg
+Archana Chaudhary
+September 19, 2019
+
+India plans to deploy a massive facial recognition system similar to China's that centralizes data recorded by surveillance cameras and connects with various databases. The move concerns critics because the country has no data protection or privacy laws, and a lack of safeguards for sensitive databases makes them prime targets for hackers and black markets. Supporters of the effort hope a properly implemented facial recognition system will make India's police force more effective, but others are unsettled by the potential for misuse, including spying, illegal hacking, and data leakage to foreign governments. Said Apar Gupta, a Delhi-based lawyer and executive director of the non-profit Internet Freedom Foundation, “We’re the only functional democracy which will set up such a system without any data protection or privacy laws. It’s like a gold rush for companies seeking large unprotected databases.”
+
+Full Article*May Require Paid Registration
+How to Make Computing More Sustainable
+Nature
+September 18, 2019
+
+Scientists at Tohoku University in Japan and Purdue University have built hardware for a stochastic computer, modifying a classical computer model to emulate the probabilistic behavior of quantum mechanics. This development could potentially lead to more energy-efficient devices that perform faster, more complex calculations. The researchers integrated three conventional silicon transistors with a minuscule magnet that behaves stochastically to produce probabilistic bits (p-bits). They tuned the magnets' thickness to balance stability with thermal noise, supporting controllable stochasticity. The team programmed the device to calculate the factors of integers up to 945 using just eight p-bits (a conventional probabilistic system would require more than 1,000 silicon transistors and 10 times the energy).
+
+Full Article
+Israel Prepares to Unleash AI on Healthcare
+The Wall Street Journal
+Dov Lieber
+September 15, 2019
+
+Israel is becoming a testbed for artificial intelligence (AI)-driven healthcare enhancements. Last year, the Israeli government announced an initiative to integrate health maintenance organizations (HMOs)' databases of Israelis' digital medical records into a single unified system. The hope is the records' structure will make them useable by AI programs and data analytics, boost their value to scientists and healthcare companies, and better personalize healthcare. Leaders in Israel’s medical and government sectors continue to grapple with ethical and privacy issues related to the initiative, but some international health officials say the potential benefits outweigh the pitfalls.
+
+Full Article*May Require Paid Registration
+
+A Wing delivery drone in the air.  Wing, FedEx, Walgreens to Launch Free Drone Delivery Pilot Program in Virginia
+The Washington Post
+Michael Laris
+September 19, 2019
+
+Alphabet subsidiary Wing plans to launch a drone delivery pilot program with FedEx and Walgreens in Christiansburg, VA, in October. Wing's 10-pound drones will fly at more than 70 mph and carry packages weighing up to three pounds, which they will place in customers' yards. Wing said the drones' downward-facing camera does not record video and is "used exclusively for navigation," with images "only available to a small group of engineers for the purpose of analyzing safety and performance criteria." Wing CEO James Ryan Burgess said the drones have safeguards to prevent interception and hijacking. The U.S. Federal Aviation Administration has certified Wing as an air carrier, but prohibits Wing drones from hovering over people or carrying hazardous materials.
+
+Full Article*May Require Paid Registration
+'Mesh' Memory-Saving Plug-in Could Boost Phone, Computer Performance
+UMass Amherst News
+September 19, 2019
+
+University of Massachusetts, Amherst (UMass Amherst) researchers have developed a system designed to compact device memory. Mesh squeezes out gaps in memory by exploiting a virtual memory hardware feature. UMass Amherst's Emery Berger said, "The trick is to find chunks of memory that can be interleaved, sort of like when interlocking gears mesh." Mesh locates these chunks, and reclaims memory by combining two of them into one, with only physical memory elements modified. Berger said Mesh can automatically perform this operation for any app. Tests demonstrated that Mesh automatically compacts the memory demands of the Firefox web browser by 16%, and the memory demands of the Redis open source data structure server by nearly 40%.
+
+Full Article
+
+A robot fish. Robotic Fish Predator Strikes Fear Into Invasive Species
+Futurity.org
+Karl Greenberg
+September 16, 2019
+
+A robotic fish has been developed by New York University (NYU) researchers to frighten mosquitofish, to curb the species' decimation of native fish and amphibians. The robot was modeled after the largemouth bass, the mosquitofish's primary predator, to trigger stress responses that induce avoidance behaviors and physiological changes. The researchers exposed mosquitofish to a robotic largemouth bass for one 15-minute session a week for six straight weeks—incorporating real-time feedback based on interactions with mosquitofish, and mimicking predation behaviors. The team saw mosquitofish exhibit the highest levels of behavioral and physiological stress responses when exposed to robot bass that most closely imitated predatory behaviors. Said Giovanni Polverino of the University of Western Australia, “Further studies are needed to determine if these effects translate to wild populations, but this is a concrete demonstration of the potential of robotics to solve the mosquitofish problem.”
+
+Full Article
+Modeling a Model Nanoparticle
+Pitt Swanson Engineering
+September 17, 2019
+
+University of Pittsburgh Swanson School of Engineering researchers have created the first universal adsorption model for metal nanoparticles, which incorporates nanoparticle structural properties, metal composition, and different adsorbates. The use of computational chemistry modeling and machine learning allows the model to utilize a large amount of data, resulting in an accurate prediction of adsorption behavior on any metal nanoparticles. The model is expected to help expedite nanomaterial design and make laboratory-based trial and error experiments unnecessary. The Swanson School's Giannis Mpourmpakis said, "This model has the potential to impact diverse areas of nanotechnology with applications in catalysis, sensors, separations, and even drug delivery."
+
+Full Article
+IoT Security: Now Dark Web Hackers are Targeting Internet-Connected Gas Pumps
+ZDNet
+Danny Palmer
+September 10, 2019
+
+Researchers at Trend Micro have found that cyber criminals are increasingly focusing their attention on hacking Internet of Things (IoT) devices. While routers remain the top target for IoT-based attacks, Internet-connected gas pumps are becoming a focal point as well. The researchers came to this conclusion after examining Dark Web marketplaces in five different languages: Russian, Portuguese, English, Arabic, and Spanish. They found the Russian market is the most sophisticated of the underground communities, with cyber criminals there ready to make money from attacks and exploits. Trend Micro’s Bharat Mistry said operators of Internet-connected gas pumps and similar devices should have their default passwords changed, and "should also think about using features such as VPNs to encrypt the traffic, and mutual authentication, whereby both the device and the user validate one other before continuing."
+
+Full Article
+New York, Salt Lake to Become 5G Testbed Cities
+CNet
+Alison DeNisco Rayome
+September 18, 2019
+
+The U.S. Federal Communications Commission (FCC) has designated New York City and Salt Lake City as its first two Innovation Zones, which will serve as testbeds for 5G and other advanced wireless communication technology for network research and experiments. Both metropolises have licensed experimental programs in progress; the Innovation Zone widens the areas for experimentation, and allows multiple experiments to be conducted under one authorization. The goal is to aid development of new technologies and services without disrupting existing services. Said FCC chairman Ajit Pai, "These projects will test new advanced technologies and prototype networks like those that can support 5G technologies."
+
+Full Article
+
+A satellite image of Alaska captured in August 2005 shows the extent of smoke coverage from wildfires in the state’s boreal forests. UCI Team Uses Machine Learning to Help Tell Which Wildfires Will Burn Out of Control
+UCI News Center
+Brian Bell
+September 17, 2019
+
+University of California, Irvine (UCI) scientists have created a technique built around a machine learning algorithm to forecast the size of a wildfire by the time it has run its course. UCI's Shane Coffield and colleagues used a decision-tree algorithm to explore a scenario in which dozens of blazes erupt at the same time, and focus on specific ignitions that pose the greatest threat of burning out of control. The researchers fed the algorithm climate data and crucial details about atmospheric conditions and the types of vegetation present around the ignition point of wildfires in Alaska. The team found the technique could predict the final size of a fire 50% of the time.
+
+Full Article
+
+Mark Zuckerberg standing behind two colleagues. Tech Industry Leaders Name Skills in Highest Demand at Their Companies
+Business Insider
+Aaron Holmes
+September 17, 2019
+
+In a Consumer Technology Association survey, more than 250 technology industry leaders named the technical skills they find most desirable in employees. Four out of five respondents acknowledged a significant lack of job candidates with the skills they need. Most named software development (63%), data analytics (54%), engineering (52%), and artificial intelligence/machine learning (48%) as the most in-demand skills at their organizations. About 33% named cloud computing, computer networking, and cybersecurity the next-most-valued skills, similar to the results of last year's poll. Recruiters often seek potential hires online, with 67% of respondents saying they use hiring portals like Monster and Zip Recruiter, while 62% say they promote job listings on social media, and 73% use employee referrals to find potential workers. Common issues cited by respondents include a need for more employees with knowledge of multiple fields, who are both technically savvy and proficient in softer skills like emotional intelligence.
+
+Full Article
+ 
+Virginia Tech Master of Information Technology
+ 
+ACM Career & Job Center
+ 
+   
+Association for Computing Machinery
+
+1601 Broadway, 10th Floor
+New York, NY 10019-7434
+1-800-342-6626
+(U.S./Canada)
+
+
+ACM Media Sales
+
+If you are interested in advertising in ACM TechNews or other ACM publications, please contact ACM Media Sales or (212) 626-0686, or visit ACM Media for more information.
+To submit feedback about ACM TechNews, contact: technews@hq.acm.org
+
+Unsubscribe
+
